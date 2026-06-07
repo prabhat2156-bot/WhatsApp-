@@ -1,5 +1,0 @@
-aiogram
-aiohttp
-python-dotenv
-colorama
-faker
